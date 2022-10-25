@@ -4,7 +4,5 @@
 
 /.vs/MyPinTool
 /Debug
-/offlineAnalysis/target
-/global/.vs
-/global/Debug
-/global/global-inject-demo/Debug
+./.idea/
+./obj-intel64/
