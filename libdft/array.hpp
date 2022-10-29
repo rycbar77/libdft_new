@@ -339,13 +339,13 @@ struct array< T, 0 >
 
 	reference at(size_type n)
 	{
-		ASSERT(false, "Empty array is always out of range")
+		ASSERT(false, "Empty array is always out of range");
 		return elems[n];
 	}
 
 	const_reference at(size_type n) const
 	{
-		ASSERT(false, "Empty array is always out of range")
+		ASSERT(false, "Empty array is always out of range");
 		return elems[n];
 	}
 

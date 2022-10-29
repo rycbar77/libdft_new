@@ -6,6 +6,8 @@
 #include <cstdio>
 
 #include "libdft/libdft_api.h"
+#include "libdft/libdft_core.h"
+#include "libdft/tagmap.h"
 
 using std::string;
 using std::endl;

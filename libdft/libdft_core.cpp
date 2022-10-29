@@ -52,10 +52,8 @@
 #include "libdft_core.h"
 #include "tagmap.h"
 #include "branch_pred.h"
-#include "taint_map.h"
 #include <iostream>
 #include <fstream>
-#include "client.h"
 
 using std::cerr;
 using namespace std;

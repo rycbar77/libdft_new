@@ -6,3 +6,4 @@
 /Debug
 ./.idea/
 ./obj-intel64/
+.cache
